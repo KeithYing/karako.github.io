@@ -1644,6 +1644,10 @@ img:hover {
 #sidebar .toggle-sidebar-info span:hover {
   background: #d71a1b;
 }
+#sidebar .honehone-clock {
+  position: relative;
+  right: 10px;
+}
 #sidebar .honehone-clock object {
   height: 60px;
 }
