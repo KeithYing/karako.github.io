@@ -1,4 +1,4 @@
-var DigitalRainSwitch = true
+var DigitalRainSwitch = false
 
 if (DigitalRainSwitch) {
     window.onload = function() {

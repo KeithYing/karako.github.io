@@ -8,3 +8,32 @@
   font-style: normal;
   src: url("../../font/IMB3270.TTF");
 }
+@font-face {
+  font-family: Bodoni;
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../font/BOD_R.TTF");
+}
+@font-face {
+  font-family: Bodoni;
+  font-style: normal;
+  font-weight: bold;
+  src: url("../../font/BOD_B.TTF");
+}
+@font-face {
+  font-family: Bodoni;
+  font-style: italic;
+  font-weight: normal;
+  src: url("../../font/BOD_I.TTF");
+}
+@font-face {
+  font-family: Bodoni;
+  font-style: italic;
+  font-weight: bold;
+  src: url("../../font/BOD_BI.TTF");
+}
+@font-face {
+  font-family: HYBJ;
+  font-style: normal;
+  src: url("../../font/HYBJ.ttf");
+}
